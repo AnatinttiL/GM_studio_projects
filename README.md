@@ -1,2 +1,2 @@
 # portfolio
-Portfolio
+Muutamia projekteja tehty GM studiolla. 
